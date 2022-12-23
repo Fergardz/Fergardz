@@ -1,0 +1,4 @@
+-I’m a physics uni student
+-Interested in data and coding
+-Currently learning HTML, javascript, CSS, python, etc.
+-Looking to collaborate on all kind of projects
